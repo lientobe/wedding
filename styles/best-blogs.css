@@ -1,0 +1,89 @@
+.best-blogs {
+    padding-top: 88px;
+    padding-bottom: 80px;
+}
+
+.best-blogs h2 {
+    margin-bottom: 23px;
+}
+
+.best-blogs > p {
+    margin-bottom: 71px;
+}
+
+.best-blogs > p::after {
+    content: '”';
+}
+
+.best-blogs > p::before {
+    content: '“';
+}
+
+.best-blogs figure {
+    background-color: #231F20;
+    padding-right: 178px;
+    margin-bottom: 40px;
+}
+
+.best-blogs img {
+    height: 370px;
+    margin-right: 100px;
+}
+
+.best-blogs-review p {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.4;
+    color: #FFFFFF;
+    margin-bottom: 27px;
+}
+
+.best-blogs-review q {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 1.2;
+    color: #FFFFFF;
+    display: block;
+    margin-bottom: 60px;
+}
+
+.best-blogs-review a {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.4;
+    color: #FFFFFF;
+}
+
+.best-blogs-list li {
+    background-color: white;
+    width: 570px;
+    padding: 48px;
+    transition: all 0.3s;
+}
+
+.best-blogs-list li:hover {
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
+}
+
+.best-blogs-list h3 {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 1.4;
+    color: #000000;
+    margin-bottom: 16px;
+}
+
+.best-blogs-list p {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.4;
+    color: #000000;
+    margin-bottom: 40px;
+}
+
+.best-blogs-list a {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.4;
+    color: #000000;
+}

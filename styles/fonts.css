@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Gilroy';
+    font-weight: bold;
+    font-display: swap;
+    src: url(../fonts/Gilroy-Bold.woff) format('woff'),
+    url(../fonts/Gilroy-Bold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Gilroy';
+
+    font-weight: 600;
+    font-display: swap;
+    src: url(../fonts/Gilroy-SemiBold.woff) format('woff'),
+    url(../fonts/Gilroy-SemiBold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-weight: normal;
+    font-display: swap;
+    src: url(../fonts/Gilroy-Regular.woff) format('woff'),
+    url(../fonts/Gilroy-Regular.woff2) format('woff2');
+}
+
+
+@font-face {
+    font-family: 'Gilroy';
+    font-weight: 300;
+    font-display: swap;
+    src: url(../fonts/Gilroy-Light.woff) format('woff'),
+    url(../fonts/Gilroy-Light.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-weight: 500;
+    font-display: swap;
+    src: url(../fonts/Gilroy-Medium.woff) format('woff'),
+    url(../fonts/Gilroy-Medium.woff2) format('woff2');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');

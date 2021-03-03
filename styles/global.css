@@ -1,0 +1,74 @@
+
+
+body {
+    font-family: Gilroy, Roboto, sans-serif;
+}
+
+.container {
+    width: 1172px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-small {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button {
+    min-width: 200px;
+    font-size: 18px;
+    line-height: 1.22;
+    font-weight: 400;
+    padding: 15px 24px;
+    background-color: transparent;
+    border: 1px solid #F7941E;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: #F7941E;
+}
+
+.button-filled {
+    background-color: #F7941E;
+    color: white;
+}
+
+.button-black {
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+}
+
+.button-black-filled {
+    border: 1px solid black;
+    background-color: transparent;
+    color: black;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.title {
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 1.4;
+    color: #000000;
+}
+
+.title-description {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.36;
+    color: black;
+}
+
+.text-center {
+    text-align: center;
+}

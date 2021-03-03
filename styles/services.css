@@ -1,0 +1,62 @@
+.services {
+    padding-top: 96px;
+    padding-bottom: 136px;
+}
+
+.services h2 {
+    margin-bottom: 23px;
+}
+
+.services p {
+    margin-bottom: 64px;
+}
+
+.services p::after {
+    content: '”';
+}
+
+.services p::before {
+    content: '“';
+}
+
+.services-list li {
+    width: 270px;
+    transition: all 0.3s;
+}
+
+.services-list li:hover {
+    filter: drop-shadow(10px 10px 15px rgba(0, 0, 0, 0.05));
+}
+
+.services-list li:hover figcaption {
+    background-color: white;
+}
+
+.services-list img {
+    width: 100%;
+}
+
+.services-list figcaption {
+    background-color: #FAFAFA;
+    padding: 24px;
+    transition: all 0.3s;
+}
+
+.services-list h3 {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.2;
+    color: black;
+    margin-bottom: 74px;
+}
+
+.services-list a {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.37;
+    color: #000000;
+}
+
+.services-list a::after {
+    content: ' ›';
+}

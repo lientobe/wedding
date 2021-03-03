@@ -1,0 +1,20 @@
+header {
+    padding-top: 36px;
+    padding-bottom: 36px;
+    background-color: white;
+}
+
+.header-nav li {
+    margin-right: 31px;
+}
+
+.header-nav li:last-child {
+    margin-right: 0;
+}
+
+.header-nav a {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.22;
+    color: black;
+}

@@ -1,0 +1,32 @@
+.sign-up-offer {
+    background-color: #F7941E;
+    padding-top: 81px;
+    padding-bottom: 69px;
+}
+
+.sing-up-offer-question {
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.sing-up-offer-question h4 {
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 1.4;
+    color: #000000;
+}
+
+.sing-up-offer-question p {
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 1.4;
+    color: #000000;
+}
+
+.sing-up-offer-buttons a {
+    display: inline-block;
+}
+
+.sing-up-offer-buttons a:first-child {
+    margin-right: 16px;
+}
